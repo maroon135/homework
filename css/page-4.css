@@ -1,0 +1,19 @@
+main {
+    width: 800px;
+    margin: 0 auto;
+    color:cornflowerblue;
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    line-height: 1.5;
+    
+}
+
+.text-color-red {
+    color: brown;
+    font-size: 24px; 
+}
+
+.text-color-green {
+    color:green;
+}
+
